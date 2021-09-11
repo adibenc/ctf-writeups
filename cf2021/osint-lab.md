@@ -1,8 +1,6 @@
-# Lab
-
-[500 pts] Lab
-OSINT
-Description
+# [500 pts] Lab
+# OSINT
+# Description
 One lecturer from Faculty of Computer Science Universitas Indonesia has a research interest in online learning. 
 
 This person is the head of a research lab in this faculty. One research product from this lab is a website that was published since 2016. 

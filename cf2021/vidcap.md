@@ -1,6 +1,4 @@
-# Forensic - Vidcap
-
-[304 pts] VidCap
+# [304 pts] VidCap
 # Description
 Found this pcap of my ex's network traffic. I knew they're streaming video but I can't extract it. Can you help me ?
 
