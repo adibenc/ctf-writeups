@@ -8,9 +8,25 @@ Author: sl0ck
 
 # Solv
 
-discord terdapat nadenka bot. berdasarkan source code, target kita adalah membypass sanitizer /gimme secret/i.
-satu satunya payload yg cocok adalah `gimme\ secret`.
-<pic proof>
+Di discord compfest terdapat nadenka bot. Berdasarkan source code, target kita adalah membypass sanitizer /gimme secret/i pada fungsi `sanitize`.
+
+```javascript
+const sanitize = (str) =>
+{
+    if(/gimme secret/i.test(str))
+    {
+        str = str.replace(/gimme secret/i, ``);
+        return sanitize(str);
+    }
+    return str;
+};
+```
+
+
+
+Satu satunya payload yg cocok adalah `gimme\ secret`.
+
+![](nadenka.jpeg)
 
 ```
 COMPFEST13{s4nDB0x3d_w41fUu_n3VeR_46a1N_c779251ea6}
