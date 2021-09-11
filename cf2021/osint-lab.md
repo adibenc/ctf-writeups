@@ -14,3 +14,13 @@ You must write the URL and the research assistant's full name in lower case with
 Example: COMPFEST13{google.com_spongebobsquarepants}
 
 Author: prajnapras19
+
+# hint
+The head of this lab has a research interest in human-computer interaction too.
+
+For unknown reason, this research assistant does not exist in research assistant list on the official website of the lab.
+
+The title of the report can be found in internet with Indonesian Language. Unfortunately, the author name is not correctly written in the webpage that has the report.
+
+The website is not scele.cs.ui.ac.id
+
