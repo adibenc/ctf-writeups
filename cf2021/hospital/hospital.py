@@ -6,7 +6,7 @@ url = "http://103.152.242.243:2869/donate"
 
 tvent = {
    "id" : 4,
-   "quantity" : 10**10,
+   "quantity" : 10**100,
 }
 
 items = [tvent for i in range(10)]
